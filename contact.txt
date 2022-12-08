@@ -1,1 +1,1 @@
-{"name":"Duncan Ecasd","email":"brandiatieno@gmail.com","subject":"Development","message":" bhjska"}
+{"name":"Duncan","email":"dun@gmail.com","subject":"Music","message":"Music is powerful"}
